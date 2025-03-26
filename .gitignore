@@ -1,0 +1,27 @@
+# Python compiled files
+*.py[cod]
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Static files (if generated locally)
+staticfiles/
+media/
+
+# IDE/editor settings
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
